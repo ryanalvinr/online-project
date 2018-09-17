@@ -58,6 +58,8 @@
 				<%@include file="contact.jsp"%>
 			</c:if>
 			
+			<!-- Looad only when use clicks Product -->
+		
 			
 
 
