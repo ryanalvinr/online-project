@@ -1,4 +1,4 @@
-package com.test.shoppingbackend;
+package com.test.backend;
 
 /**
  * Hello world!
